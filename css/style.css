@@ -43,7 +43,7 @@ img {
 .item6 { grid-area: 2 / 2; }
 
 .image-container {
-  background-image: url('april-go/recipe_assignment_1/images/bg.jpg');
+  background-image: url("https://images.unsplash.com/photo-1495195134817-aeb325a55b65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80");
   background-size: cover;
   position: relative;
   height: 300px;
